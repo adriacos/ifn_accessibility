@@ -3,7 +3,7 @@ if (!require(mapsapi)){
 }
 library(mapsapi)
 
-key = "AIzaSyAFPzNPjQ0acMkB8M0W6_z5qrpFqJwSj44"
+key = ""
 
 modes = c("transit", "driving", "walking", "bicycling")
 
